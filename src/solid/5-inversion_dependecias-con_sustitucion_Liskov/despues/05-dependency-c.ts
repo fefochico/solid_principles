@@ -1,4 +1,4 @@
-import localPosts from '../data/local-database.json';
+import localPosts from '../../../data/local-database.json';
 import { Post } from './05-dependency-b';
 
 export abstract class PostProvider {
